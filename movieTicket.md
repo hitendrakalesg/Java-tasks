@@ -14,7 +14,7 @@ The application should allow managing movies, shows, and ticket bookings.
 
 ## ⏱ Time Limit
 
-**90 Minutes**
+**60 Minutes**
 
 ---
 
