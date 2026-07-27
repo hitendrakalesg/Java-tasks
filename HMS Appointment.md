@@ -14,7 +14,7 @@ The system should allow managing doctors, patients, and appointments.
 
 ## ⏱ Time Limit
 
-**2 Hours 30 Minutes**
+**1 Hour**
 
 ---
 
