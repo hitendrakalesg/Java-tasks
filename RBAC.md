@@ -17,7 +17,7 @@ The application should support authentication and role-based authorization for t
 
 ## Time Limit
 
-2 Hours
+1 Hours
 
 ---
 
