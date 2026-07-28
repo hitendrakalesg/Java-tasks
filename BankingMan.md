@@ -14,7 +14,7 @@ The application should allow creating customer accounts and performing basic ban
 
 ## ⏱ Time Limit
 
-**60 Minutes**
+**75 Minutes**
 
 ---
 
