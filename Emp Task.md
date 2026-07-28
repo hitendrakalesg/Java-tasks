@@ -14,7 +14,7 @@ The application should allow managing employees and assigning tasks to them.
 
 ## ⏱ Time Limit
 
-**60 Minutes**
+**75 Minutes**
 
 ---
 
