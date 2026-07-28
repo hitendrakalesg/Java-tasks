@@ -14,7 +14,7 @@ The application should allow employees to apply for leave, while administrators 
 
 ## ⏱ Time Limit
 
-**60 Minutes**
+**75 Minutes**
 
 ---
 
